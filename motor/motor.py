@@ -1,9 +1,6 @@
 ################################################################################
 # implements the low level functions to control ax-12 servo motor
 ################################################################################
-# sources:
-# forums.trossenrobotics.com/tutorials/how-to-diy-128/controlling-ax-12-servos-3275
-# clubelek.insa-lyon.fr/joomla/fr/le_robot/robot_2010/carte_ax-12.php
 
 import serial
 
